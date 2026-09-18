@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COTNEXA
 
 **Real-Time AI Financial Risk Intelligence Platform**
@@ -167,3 +168,6 @@ VITE_API_TARGET=http://localhost:5000
 ## 9. License & Responsible Use
 
 Synthetic data only. All passwords are stored using PBKDF2-SHA256 hashes. Secrets are loaded strictly from environment variables.
+=======
+# JARVIS
+>>>>>>> 5136ef96ce8529dfa37581784443d4362ec15307
