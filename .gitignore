@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Production builds
+dist/
+build/
+frontend/dist/
+
+# Python Virtual Environments
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+
+# Local Databases (Auto-generated on app startup)
+*.db
+*.sqlite
+*.sqlite3
+backend/*.db
+
+# IDE & OS files
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+coverage/
+.cache/
